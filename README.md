@@ -21,4 +21,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 8 hours
-### Live link -
+### Live link - [Link](https://business-landing-page-beryl.vercel.app/)
